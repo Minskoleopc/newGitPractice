@@ -6,4 +6,6 @@ git checkout HEAD filename
 git reset HEAD filename
 git log
 git show HEAD
+git branch
+git branch branchName
 

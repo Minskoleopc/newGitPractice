@@ -2,3 +2,8 @@ git init
 git add .
 git commit -m "added"
 git status
+git checkout HEAD filename
+git reset HEAD filename
+git log
+git show HEAD
+
